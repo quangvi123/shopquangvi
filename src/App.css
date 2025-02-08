@@ -1,0 +1,41 @@
+.min-w-full {
+  min-width: 100%;
+  padding-left: 50px;
+}
+.text-base{
+  cursor: pointer;
+}
+
+.mt-4 {
+  margin: 0;
+}
+
+
+.bg-yellow-400{
+  background-color: black;
+  color: aliceblue;
+}
+
+.tieude{
+  text-align: center;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin: 30px auto;
+}
+.w-fit{
+  margin: 50px auto;
+}
+.items-center max-w-full{
+  margin: auto;
+}
+.flex-shrink{
+  text-align: center;
+}
+.pl-2{
+  border: 1px solid black;
+  
+}
+.inline-flex{
+  margin-top: 10px;
+}
