@@ -31,7 +31,7 @@ function Header() {
   <div class="hidden md:flex md:space-x-10 list-none">
     <li><a  class="text-base font-normal text-gray-500 list-none hover:text-gray-900"><Link to="">Home</Link></a></li>
     <li><a  class="text-base font-normal text-gray-500 list-none hover:text-gray-900"><Link to="/products">Product</Link></a></li>
-    <li><a routerLink="/product-detail" class="text-base font-normal text-gray-500 list-none hover:text-gray-900"><Link to="/product-detail">Detail</Link></a></li>
+    <li><a  class="text-base font-normal text-gray-500 list-none hover:text-gray-900"><Link to="/product-detail">Detail</Link></a></li>
     <li><a  class="text-base font-normal text-gray-500 list-none hover:text-gray-900"><Link to="/admin">Admin</Link></a></li>
   </div>
   

@@ -133,12 +133,11 @@ export default function HomePage() {
         </div>
       </a>
     </div>
-    {/*   🛑 Product card 2- Ends Here  */}
-    {/*   ✅ Product card 3 - Starts Here 👇 */}
+    
     <div className="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
       <a href="#">
         <img
-          src="https://images.unsplash.com/photo-1651950537598-373e4358d320?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MjV8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+          src="https://cigadesign.com/cdn/shop/files/1_2bf8577b-5de7-4c15-b77b-408ac7bf73a0.png?v=1688545953"
           alt="Product"
           className="h-80 w-72 object-cover rounded-t-xl"
         />
@@ -178,7 +177,7 @@ export default function HomePage() {
     <div className="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
       <a href="#">
         <img
-          src="https://images.unsplash.com/photo-1651950540805-b7c71869e689?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Mjl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+          src="https://cigadesign.com/cdn/shop/files/6_f72071e6-945f-4b4b-be94-d16be38380ee.png?v=1713162061"
           alt="Product"
           className="h-80 w-72 object-cover rounded-t-xl"
         />
@@ -214,12 +213,11 @@ export default function HomePage() {
         </div>
       </a>
     </div>
-    {/*   🛑 Product card 4 - Ends Here  */}
-    {/*   ✅ Product card 5 - Starts Here 👇 */}
+
     <div className="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
       <a href="#">
         <img
-          src="https://images.unsplash.com/photo-1649261191624-ca9f79ca3fc6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NDd8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+          src="https://cigadesign.com/cdn/shop/products/ad216c653fe282092b89968bc303566f.jpg?v=1685622142"
           alt="Product"
           className="h-80 w-72 object-cover rounded-t-xl"
         />
@@ -260,7 +258,7 @@ export default function HomePage() {
     <div className="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
       <a href="#">
         <img
-          src="https://images.unsplash.com/photo-1649261191606-cb2496e97eee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NDR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+          src="https://cigadesign.com/cdn/shop/files/1_2_3c52af7e-4d83-4aee-ba4e-b2d6f8bde09a.jpg?v=1699952445"
           alt="Product"
           className="h-80 w-72 object-cover rounded-t-xl"
         />
