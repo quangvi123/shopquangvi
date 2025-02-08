@@ -32,7 +32,7 @@ function Header() {
     <li><a  class="text-base font-normal text-gray-500 list-none hover:text-gray-900"><Link to="">Home</Link></a></li>
     <li><a  class="text-base font-normal text-gray-500 list-none hover:text-gray-900"><Link to="/products">Product</Link></a></li>
     <li><a  class="text-base font-normal text-gray-500 list-none hover:text-gray-900"><Link to="/product-detail">Detail</Link></a></li>
-    <li><a  class="text-base font-normal text-gray-500 list-none hover:text-gray-900"><Link to="/admin">Admin</Link></a></li>
+    <li><a  class="text-base font-normal text-gray-500 list-none hover:text-gray-900">Admin</a></li>
   </div>
   
   {/* end search bar */}
